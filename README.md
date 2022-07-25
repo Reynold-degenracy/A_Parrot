@@ -5,7 +5,7 @@
 ---
   
 ## What is this repository?
-This is a repository of Reynold's own little tools including but not limited to VPN manager, calculater, etc.
+This is a repository of Reynold's own little tools including but not limited to VPN manager, matrix calculater, etc.
   
 
 ## Who is this repository for?
